@@ -1,5 +1,4 @@
-# Computational Analysis of Morphosyntactic Categories in Georgian
-# TreeTagger-for-Georgian
+# Computational Analysis of Morphosyntactic Categories in Georgian: TreeTagger-for-Georgian POS-tagging
 
 Daraselia, Sophiko (2019) Computational Analysis of Morphosyntactic Categories in Georgian. PhD thesis, University of Leeds.
 

@@ -1,10 +1,11 @@
 # Daraselia, S. (2024) Issues in Training the TreeTagger for Georgian. Corpora. ISSN 1749-5032 (In Press) 
 
-# Abstract
 The paper describes the process of retraining the TreeTagger program (Schmid, 1994) for the Georgian language. This includes some general procedures such as designing a training corpus, creating a tagging lexicon, and training the TreeTagger on Georgian texts. I use a novel KATAG tagset and enclitic tokenization approach in part-of-speech tagging. The KATAG tagset is based on a new morphosyntactic language model (Daraselia and Hardie, fc). In this paper, I address some major disambiguation issues that were revealed in training the
 TreeTagger on Georgian texts. I discuss some ways to get around these issues, such as implementing a workaround to the tagging lexicon. I report on the performance of the TreeTagger program and compare how different parameters such as the size of the training
 lexicon or context and affix lengths have effects on the Tagger’s performance.
 https://eprints.whiterose.ac.uk/205337/1/Daraselia_Training%20TreeTagger.pdf 
+
+
 
 # Daraselia, Sophiko (2019) Computational Analysis of Morphosyntactic Categories in Georgian. PhD thesis, University of Leeds.
 

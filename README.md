@@ -1,4 +1,4 @@
-# Daraselia, S. (Accepted: 2023) Issues in Training the TreeTagger for Georgian. Corpora. ISSN 1749-5032 (In Press) 
+# Daraselia, S. (2024) Issues in Training the TreeTagger for Georgian. Corpora. ISSN 1749-5032 (In Press) 
 
 # Abstract
 The paper describes the process of retraining the TreeTagger program (Schmid, 1994) for the Georgian language. This includes some general procedures such as designing a training corpus, creating a tagging lexicon, and training the TreeTagger on Georgian texts. I use a novel KATAG tagset and enclitic tokenization approach in part-of-speech tagging. The KATAG tagset is based on a new morphosyntactic language model (Daraselia and Hardie, fc). In this paper, I address some major disambiguation issues that were revealed in training the
